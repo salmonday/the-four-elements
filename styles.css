@@ -155,3 +155,41 @@ img {
     padding: 0 8px;
     align-items: center;
     }
+
+.sec-three {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
+}    
+
+.sec-three-container {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    justify-content: space-around;
+    /*align-items: center;*/
+    background-color: #e5e7eb;
+}
+
+.quote {
+    display: flex;
+    align-self: center;
+    justify-content: right;
+    gap: 6px;
+    margin-bottom: 8px;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
+.quote-attribute {
+    display: flex;
+    justify-content: left;
+    align-self: flex-end;
+    gap: 6px;
+    margin-bottom: 8px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: right;
+}
