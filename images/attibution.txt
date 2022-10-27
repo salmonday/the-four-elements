@@ -6,3 +6,10 @@ Photo by <a href="https://unsplash.com/@fourcolourblack?utm_source=unsplash&utm_
   
 Photo by <a href="https://unsplash.com/@silasbaisch?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Silas Baisch</a> on <a href="https://unsplash.com/s/photos/water?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
+<a href="https://www.flaticon.com/free-icons/fire" title="fire icons">Fire icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/wind" title="wind icons">Wind icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/water" title="water icons">Water icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/soil" title="soil icons">Soil icons created by Freepik - Flaticon</a>
